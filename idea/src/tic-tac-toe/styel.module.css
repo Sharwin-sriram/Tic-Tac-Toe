@@ -39,8 +39,8 @@
   color: red;
 }
 
-.cell[data-playing="Y"] {
-  color: cyan;
+.cell[data-playing="O"] {
+  color: rgb(255, 153, 0);
 }
 
 .won {
